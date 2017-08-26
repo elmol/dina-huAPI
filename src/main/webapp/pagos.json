@@ -1,0 +1,92 @@
+    [
+             {
+               "id": 5155,
+               "nro": 566,
+               "fecha": "03/04/2017",
+               "tipo": "PPGACP",
+               "ctacte": "10092 - Sueldos y Jornales",
+               "expediente": "",
+               "neto": 945297
+             },
+             {
+               "id": 5141,
+               "nro": 552,
+               "fecha": "03/04/2017",
+               "tipo": "PPGACP",
+               "ctacte": "10089 - Nidia Adriana Tello",
+               "expediente": "",
+               "neto": 3088
+             },
+             {
+               "id": 5140,
+               "nro": 551,
+               "fecha": "03/04/2017",
+               "tipo": "PPGACP",
+               "ctacte": "10219 - Acuña Andrés",
+               "expediente": "",
+               "neto": 4000
+             },
+             {
+               "id": 5139,
+               "nro": 550,
+               "fecha": "03/04/2017",
+               "tipo": "PPGACP",
+               "ctacte": "10360 - Gonzalo Becerra",
+               "expediente": "",
+               "neto": 3300
+             },
+             {
+               "id": 5138,
+               "nro": 549,
+               "fecha": "03/04/2017",
+               "tipo": "PPGACP",
+               "ctacte": "10511 - Servidio Pablo Antonio",
+               "expediente": "",
+               "neto": 4260
+             },
+             {
+               "id": 5137,
+               "nro": 548,
+               "fecha": "03/04/2017",
+               "tipo": "PPGACP",
+               "ctacte": "10128 - Perez Ana Maria",
+               "expediente": "",
+               "neto": 7500
+             },
+             {
+               "id": 5136,
+               "nro": 547,
+               "fecha": "03/04/2017",
+               "tipo": "PPGACP",
+               "ctacte": "10012 - EDGARDO H. VELIZ",
+               "expediente": "",
+               "neto": 1303.17
+             },
+             {
+               "id": 5135,
+               "nro": 546,
+               "fecha": "03/04/2017",
+               "tipo": "PPGACP",
+               "ctacte": "10381 - Poujardieu Christian Eduardo",
+               "expediente": "",
+               "neto": 5595
+             },             
+             {
+               "id": 5134,
+               "nro": 546,
+               "fecha": "03/04/2017",
+               "tipo": "OTRO",
+               "ctacte": "10381 - Poujardieu Christian Eduardo",
+               "expediente": "",
+               "neto": 5595
+             },             
+             {
+               "id": 5133,
+               "nro": 546,
+               "fecha": "10/04/2017",
+               "tipo": "OTRO",
+               "ctacte": "10381 - Filtros por día y mes",
+               "expediente": "",
+               "neto": 5595
+             }
+           ]
